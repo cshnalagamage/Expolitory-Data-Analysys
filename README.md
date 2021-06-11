@@ -61,9 +61,9 @@ https://github.com/cshnalagamage/Expolitory-Data-Analysys/blob/main/plot2.png)
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+https://github.com/cshnalagamage/Expolitory-Data-Analysys/blob/main/plot3.png
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+https://github.com/cshnalagamage/Expolitory-Data-Analysys/blob/main/plot4.png
